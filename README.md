@@ -8,4 +8,4 @@
 
 Java Project.
 
-[Javier Delgado](https://github.com/Texano8)# SQAJD
+[Javier Delgado](https://github.com/Texano8)
